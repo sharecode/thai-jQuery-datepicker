@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>thai date picky</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.css">
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-datetimepicker/2.5.20/jquery.datetimepicker.full.min.js"></script>
+    <script src="./thai.datepicker.js"></script>
+    <script>
+    $(function() {
+    //original datepicker
+      $("#datepicker").datetimepicker()
+      //thai datepicker
+      thaiDatepicker("#d1,#d2,#d3")
+    })
+    </script>
+</head>
+<body>
+    <label>เดิมๆ</label><br>
+    <input type="text" id="datepicker">
+    <br><br>
+    <label>ไทย</label><br>
+    <input type="text" id="d1">
+    <input type="text" id="d2">
+    <input type="text" id="d3">
+</body>
+</html>
