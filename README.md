@@ -31,7 +31,7 @@ function thaiDatepicker(el) {
 แล้วก็กำหนดช่อง ให้เป็น readonly เพราะ chrome 
 จะแถม auto compleate  + auto fill ลงไป 
 ตัวนี้จะแก้ เรื่องการ บังปฎิทินเจ้าค่ะ
->_<
+\>_<
 
 หรือจะ โหลดไฟล์ก็ได้ เพราะใช้ซ้ำหลายรอบพิมพ์บ่อยๆจะเบื่อซะเปล่าค่ะ
 ```<script src="./thai.datepicker.js"></script>```
