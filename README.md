@@ -44,6 +44,5 @@ id = 'd1'
 id = 'd2'
 id = 'd3'
 ```
-
-แค่นี้แหละจบเลย
+แค่นี้แหละจบเลย [จิ้มโหลดได้เลย](https://github.com/sharecode/thai-jQuery-datepicker/archive/master.zip).
 
