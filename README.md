@@ -9,7 +9,7 @@
 jquery.datetimepicker.css
 jquery-2.2.4.min.js
 jquery.datetimepicker.full.min.js
-ตากตัวอย่างไฟล์
+จากตัวอย่างไฟล์
 
 ไฟล์เดิม  ของ jquery datetime picker ได้เลย
 เพิ่มโค้ดเข้าไปนิดนึง
